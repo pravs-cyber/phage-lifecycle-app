@@ -1,0 +1,5 @@
+tensorflow-cpu
+biopython
+gradio
+numpy
+scikit-learn==1.6.1
